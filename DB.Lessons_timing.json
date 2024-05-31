@@ -1,0 +1,880 @@
+[{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ab"
+  },
+  "sub_cour_teach_id": 1,
+  "time_id": 1,
+  "date": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ac"
+  },
+  "sub_cour_teach_id": 1,
+  "time_id": 2,
+  "date": {
+    "$date": "2023-09-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ad"
+  },
+  "sub_cour_teach_id": 1,
+  "time_id": 3,
+  "date": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ae"
+  },
+  "sub_cour_teach_id": 1,
+  "time_id": 4,
+  "date": {
+    "$date": "2023-10-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60af"
+  },
+  "sub_cour_teach_id": 1,
+  "time_id": 5,
+  "date": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60b0"
+  },
+  "sub_cour_teach_id": 1,
+  "time_id": 6,
+  "date": {
+    "$date": "2023-11-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60b1"
+  },
+  "sub_cour_teach_id": 1,
+  "time_id": 7,
+  "date": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60b2"
+  },
+  "sub_cour_teach_id": 1,
+  "time_id": 8,
+  "date": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60b3"
+  },
+  "sub_cour_teach_id": 2,
+  "time_id": 1,
+  "date": {
+    "$date": "2023-09-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60b4"
+  },
+  "sub_cour_teach_id": 2,
+  "time_id": 2,
+  "date": {
+    "$date": "2023-09-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60b5"
+  },
+  "sub_cour_teach_id": 2,
+  "time_id": 3,
+  "date": {
+    "$date": "2023-10-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60b6"
+  },
+  "sub_cour_teach_id": 2,
+  "time_id": 4,
+  "date": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60b7"
+  },
+  "sub_cour_teach_id": 2,
+  "time_id": 5,
+  "date": {
+    "$date": "2023-11-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60b8"
+  },
+  "sub_cour_teach_id": 2,
+  "time_id": 6,
+  "date": {
+    "$date": "2023-11-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60b9"
+  },
+  "sub_cour_teach_id": 2,
+  "time_id": 7,
+  "date": {
+    "$date": "2023-12-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ba"
+  },
+  "sub_cour_teach_id": 2,
+  "time_id": 8,
+  "date": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60bb"
+  },
+  "sub_cour_teach_id": 3,
+  "time_id": 1,
+  "date": {
+    "$date": "2023-09-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60bc"
+  },
+  "sub_cour_teach_id": 3,
+  "time_id": 2,
+  "date": {
+    "$date": "2023-09-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60bd"
+  },
+  "sub_cour_teach_id": 3,
+  "time_id": 3,
+  "date": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60be"
+  },
+  "sub_cour_teach_id": 3,
+  "time_id": 4,
+  "date": {
+    "$date": "2023-10-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60bf"
+  },
+  "sub_cour_teach_id": 3,
+  "time_id": 5,
+  "date": {
+    "$date": "2023-11-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60c0"
+  },
+  "sub_cour_teach_id": 3,
+  "time_id": 6,
+  "date": {
+    "$date": "2023-11-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60c1"
+  },
+  "sub_cour_teach_id": 3,
+  "time_id": 7,
+  "date": {
+    "$date": "2023-12-03T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60c2"
+  },
+  "sub_cour_teach_id": 3,
+  "time_id": 8,
+  "date": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60c3"
+  },
+  "sub_cour_teach_id": 4,
+  "time_id": 1,
+  "date": {
+    "$date": "2023-09-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60c4"
+  },
+  "sub_cour_teach_id": 4,
+  "time_id": 2,
+  "date": {
+    "$date": "2023-09-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60c5"
+  },
+  "sub_cour_teach_id": 4,
+  "time_id": 3,
+  "date": {
+    "$date": "2023-10-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60c6"
+  },
+  "sub_cour_teach_id": 4,
+  "time_id": 4,
+  "date": {
+    "$date": "2023-10-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60c7"
+  },
+  "sub_cour_teach_id": 4,
+  "time_id": 5,
+  "date": {
+    "$date": "2023-11-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60c8"
+  },
+  "sub_cour_teach_id": 4,
+  "time_id": 6,
+  "date": {
+    "$date": "2023-11-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60c9"
+  },
+  "sub_cour_teach_id": 4,
+  "time_id": 7,
+  "date": {
+    "$date": "2023-12-04T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ca"
+  },
+  "sub_cour_teach_id": 4,
+  "time_id": 8,
+  "date": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60cb"
+  },
+  "sub_cour_teach_id": 5,
+  "time_id": 1,
+  "date": {
+    "$date": "2023-09-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60cc"
+  },
+  "sub_cour_teach_id": 5,
+  "time_id": 2,
+  "date": {
+    "$date": "2023-09-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60cd"
+  },
+  "sub_cour_teach_id": 5,
+  "time_id": 3,
+  "date": {
+    "$date": "2023-10-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ce"
+  },
+  "sub_cour_teach_id": 5,
+  "time_id": 4,
+  "date": {
+    "$date": "2023-10-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60cf"
+  },
+  "sub_cour_teach_id": 5,
+  "time_id": 5,
+  "date": {
+    "$date": "2023-11-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60d0"
+  },
+  "sub_cour_teach_id": 5,
+  "time_id": 6,
+  "date": {
+    "$date": "2023-11-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60d1"
+  },
+  "sub_cour_teach_id": 5,
+  "time_id": 7,
+  "date": {
+    "$date": "2023-12-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60d2"
+  },
+  "sub_cour_teach_id": 5,
+  "time_id": 8,
+  "date": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60d3"
+  },
+  "sub_cour_teach_id": 6,
+  "time_id": 1,
+  "date": {
+    "$date": "2023-09-06T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60d4"
+  },
+  "sub_cour_teach_id": 6,
+  "time_id": 2,
+  "date": {
+    "$date": "2023-09-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60d5"
+  },
+  "sub_cour_teach_id": 6,
+  "time_id": 3,
+  "date": {
+    "$date": "2023-10-06T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60d6"
+  },
+  "sub_cour_teach_id": 6,
+  "time_id": 4,
+  "date": {
+    "$date": "2023-10-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60d7"
+  },
+  "sub_cour_teach_id": 6,
+  "time_id": 5,
+  "date": {
+    "$date": "2023-11-06T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60d8"
+  },
+  "sub_cour_teach_id": 6,
+  "time_id": 6,
+  "date": {
+    "$date": "2023-11-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60d9"
+  },
+  "sub_cour_teach_id": 6,
+  "time_id": 7,
+  "date": {
+    "$date": "2023-12-06T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60da"
+  },
+  "sub_cour_teach_id": 6,
+  "time_id": 8,
+  "date": {
+    "$date": "2023-12-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60db"
+  },
+  "sub_cour_teach_id": 7,
+  "time_id": 1,
+  "date": {
+    "$date": "2023-09-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60dc"
+  },
+  "sub_cour_teach_id": 7,
+  "time_id": 2,
+  "date": {
+    "$date": "2023-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60dd"
+  },
+  "sub_cour_teach_id": 7,
+  "time_id": 3,
+  "date": {
+    "$date": "2023-10-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60de"
+  },
+  "sub_cour_teach_id": 7,
+  "time_id": 4,
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60df"
+  },
+  "sub_cour_teach_id": 7,
+  "time_id": 5,
+  "date": {
+    "$date": "2023-11-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60e0"
+  },
+  "sub_cour_teach_id": 7,
+  "time_id": 6,
+  "date": {
+    "$date": "2023-11-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60e1"
+  },
+  "sub_cour_teach_id": 7,
+  "time_id": 7,
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60e2"
+  },
+  "sub_cour_teach_id": 7,
+  "time_id": 8,
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60e3"
+  },
+  "sub_cour_teach_id": 8,
+  "time_id": 1,
+  "date": {
+    "$date": "2023-09-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60e4"
+  },
+  "sub_cour_teach_id": 8,
+  "time_id": 2,
+  "date": {
+    "$date": "2023-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60e5"
+  },
+  "sub_cour_teach_id": 8,
+  "time_id": 3,
+  "date": {
+    "$date": "2023-10-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60e6"
+  },
+  "sub_cour_teach_id": 8,
+  "time_id": 4,
+  "date": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60e7"
+  },
+  "sub_cour_teach_id": 8,
+  "time_id": 5,
+  "date": {
+    "$date": "2023-11-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60e8"
+  },
+  "sub_cour_teach_id": 8,
+  "time_id": 6,
+  "date": {
+    "$date": "2023-11-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60e9"
+  },
+  "sub_cour_teach_id": 8,
+  "time_id": 7,
+  "date": {
+    "$date": "2023-12-07T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ea"
+  },
+  "sub_cour_teach_id": 8,
+  "time_id": 8,
+  "date": {
+    "$date": "2023-12-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60eb"
+  },
+  "sub_cour_teach_id": 9,
+  "time_id": 1,
+  "date": {
+    "$date": "2023-09-08T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ec"
+  },
+  "sub_cour_teach_id": 9,
+  "time_id": 2,
+  "date": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ed"
+  },
+  "sub_cour_teach_id": 9,
+  "time_id": 3,
+  "date": {
+    "$date": "2023-10-08T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ee"
+  },
+  "sub_cour_teach_id": 9,
+  "time_id": 4,
+  "date": {
+    "$date": "2023-10-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ef"
+  },
+  "sub_cour_teach_id": 9,
+  "time_id": 5,
+  "date": {
+    "$date": "2023-11-08T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60f0"
+  },
+  "sub_cour_teach_id": 9,
+  "time_id": 6,
+  "date": {
+    "$date": "2023-11-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60f1"
+  },
+  "sub_cour_teach_id": 9,
+  "time_id": 7,
+  "date": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60f2"
+  },
+  "sub_cour_teach_id": 9,
+  "time_id": 8,
+  "date": {
+    "$date": "2023-12-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60f3"
+  },
+  "sub_cour_teach_id": 10,
+  "time_id": 1,
+  "date": {
+    "$date": "2023-09-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60f4"
+  },
+  "sub_cour_teach_id": 10,
+  "time_id": 2,
+  "date": {
+    "$date": "2023-09-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60f5"
+  },
+  "sub_cour_teach_id": 10,
+  "time_id": 3,
+  "date": {
+    "$date": "2023-10-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60f6"
+  },
+  "sub_cour_teach_id": 10,
+  "time_id": 4,
+  "date": {
+    "$date": "2023-10-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60f7"
+  },
+  "sub_cour_teach_id": 10,
+  "time_id": 5,
+  "date": {
+    "$date": "2023-11-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60f8"
+  },
+  "sub_cour_teach_id": 10,
+  "time_id": 6,
+  "date": {
+    "$date": "2023-11-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60f9"
+  },
+  "sub_cour_teach_id": 10,
+  "time_id": 7,
+  "date": {
+    "$date": "2023-12-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60fa"
+  },
+  "sub_cour_teach_id": 10,
+  "time_id": 8,
+  "date": {
+    "$date": "2023-12-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60fb"
+  },
+  "sub_cour_teach_id": 11,
+  "time_id": 1,
+  "date": {
+    "$date": "2023-09-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60fc"
+  },
+  "sub_cour_teach_id": 11,
+  "time_id": 2,
+  "date": {
+    "$date": "2023-09-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60fd"
+  },
+  "sub_cour_teach_id": 11,
+  "time_id": 3,
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60fe"
+  },
+  "sub_cour_teach_id": 11,
+  "time_id": 4,
+  "date": {
+    "$date": "2023-10-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b60ff"
+  },
+  "sub_cour_teach_id": 11,
+  "time_id": 5,
+  "date": {
+    "$date": "2023-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b6100"
+  },
+  "sub_cour_teach_id": 11,
+  "time_id": 6,
+  "date": {
+    "$date": "2023-11-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b6101"
+  },
+  "sub_cour_teach_id": 11,
+  "time_id": 7,
+  "date": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6659f93ba2eeeb0c631b6102"
+  },
+  "sub_cour_teach_id": 11,
+  "time_id": 8,
+  "date": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  }
+}]

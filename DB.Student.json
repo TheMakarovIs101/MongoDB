@@ -1,0 +1,1127 @@
+[{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6103"
+  },
+  "FIO": "Kozyrnov Igor Aleksandrovich",
+  "dob": {
+    "$date": "2003-12-15T00:00:00.000Z"
+  },
+  "address": "Volgograd, Mira str., 11",
+  "email": "amwflmym49@bk.ru",
+  "group_id": 1,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6104"
+  },
+  "FIO": "Yeryomin Alexander Petrovich",
+  "dob": {
+    "$date": "2002-10-22T00:00:00.000Z"
+  },
+  "address": "Almetyevsk, Zheleznodorozhnaya str., 14",
+  "email": "nkxymmbb37@bk.ru",
+  "group_id": 1,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6105"
+  },
+  "FIO": "Golovach Elizabeth Petrovna",
+  "dob": {
+    "$date": "2004-10-05T00:00:00.000Z"
+  },
+  "address": "Severodvinsk, Pionerskaya str., 7",
+  "email": "psriphqr68@bk.ru",
+  "group_id": 1,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6106"
+  },
+  "FIO": "Bishler Elizabeth Konstantinovna",
+  "dob": {
+    "$date": "2003-01-01T00:00:00.000Z"
+  },
+  "address": "Petropavlovsk-Kamchatsky, Trudovaya str., 12",
+  "email": "usjjkfhz69@bk.ru",
+  "group_id": 1,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6107"
+  },
+  "FIO": "Sergeev Sergey Sergeyevich",
+  "dob": {
+    "$date": "2000-01-02T00:00:00.000Z"
+  },
+  "address": "Yuzhno-Sakhalinsk, Krasnoarmeyskaya str., 19",
+  "email": "tipjions3@bk.ru",
+  "group_id": 1,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6108"
+  },
+  "FIO": "Yeremyuk Sergey Vasilyevich",
+  "dob": {
+    "$date": "2002-12-16T00:00:00.000Z"
+  },
+  "address": "Chelyabinsk, Pervomayskiy lane, 9",
+  "email": "imbbnglx66@bk.ru",
+  "group_id": 1,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6109"
+  },
+  "FIO": "Shlepko Stepan Stepanovich",
+  "dob": {
+    "$date": "2002-12-17T00:00:00.000Z"
+  },
+  "address": "Almetyevsk, Yuzhnaya str., 14",
+  "email": "yeogvaif2@bk.ru",
+  "group_id": 1,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b610a"
+  },
+  "FIO": "Kovrigin Nikolay Dmitrievich",
+  "dob": {
+    "$date": "2004-12-20T00:00:00.000Z"
+  },
+  "address": "Almetyevsk, Yuzhnaya str., 10",
+  "email": "mhqusjpx37@bk.ru",
+  "group_id": 1,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b610b"
+  },
+  "FIO": "Kolotushkin Konstantin Aleksandrovich",
+  "dob": {
+    "$date": "2001-01-23T00:00:00.000Z"
+  },
+  "address": "Novorossiysk, Raduzhnaya str., 22",
+  "email": "puiozica69@bk.ru",
+  "group_id": 2,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b610c"
+  },
+  "FIO": "Chik Ivan Ivanovich",
+  "dob": {
+    "$date": "2002-02-10T00:00:00.000Z"
+  },
+  "address": "Volzhsky, Krasnoarmeyskaya str., 10",
+  "email": "jqspkwlw49@bk.ru",
+  "group_id": 2,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b610d"
+  },
+  "FIO": "Pachik Eupatius Sergeyevich",
+  "dob": {
+    "$date": "2002-04-13T00:00:00.000Z"
+  },
+  "address": "Astrakhan, Zavodskaya str., 11",
+  "email": "nuwdbvwb17@bk.ru",
+  "group_id": 2,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b610e"
+  },
+  "FIO": "Perch Kirill Lvovich",
+  "dob": {
+    "$date": "2004-10-18T00:00:00.000Z"
+  },
+  "address": "Nalchik, Rechnaya str., 11",
+  "email": "bvltysaw62@bk.ru",
+  "group_id": 2,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b610f"
+  },
+  "FIO": "Yeliseev Roman Romanovich",
+  "dob": {
+    "$date": "2001-12-17T00:00:00.000Z"
+  },
+  "address": "Ulan-Ude, Chkalova str., 2",
+  "email": "soeohkfhl58@bk.ru",
+  "group_id": 2,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6110"
+  },
+  "FIO": "Stalkin Kirill Lvovich",
+  "dob": {
+    "$date": "2002-11-01T00:00:00.000Z"
+  },
+  "address": "Sochi, Kolkhoznaya str., 23",
+  "email": "kzkrbvah98@bk.ru",
+  "group_id": 2,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6111"
+  },
+  "FIO": "Stepkin Stepan Stepanovich",
+  "dob": {
+    "$date": "2003-09-02T00:00:00.000Z"
+  },
+  "address": "Nizhny Tagil, Lenina str., 22",
+  "email": "cbciwiee61@bk.ru",
+  "group_id": 2,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6112"
+  },
+  "FIO": "Petrov Georgiy Gennadievich",
+  "dob": {
+    "$date": "2003-04-25T00:00:00.000Z"
+  },
+  "address": "Krasnogorsk, 17 September str., 1",
+  "email": "erdvnnkg24@bk.ru",
+  "group_id": 3,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6113"
+  },
+  "FIO": "Zhdanov Kondraty Vadimovich",
+  "dob": {
+    "$date": "2001-11-23T00:00:00.000Z"
+  },
+  "address": "Yekaterinburg, Raduzhnaya str., 15",
+  "email": "nfipryzd24@bk.ru",
+  "group_id": 3,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6114"
+  },
+  "FIO": "Filatov Donat Arsenievich",
+  "dob": {
+    "$date": "2002-12-13T00:00:00.000Z"
+  },
+  "address": "Novocherkassk, Shosseynaya str., 14",
+  "email": "ssiuemok7@bk.ru",
+  "group_id": 3,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6115"
+  },
+  "FIO": "Zinoviev Samuel Gelasievich",
+  "dob": {
+    "$date": "2003-05-14T00:00:00.000Z"
+  },
+  "address": "Volgograd, Shkolny lane, 13",
+  "email": "fontjhqo91@bk.ru",
+  "group_id": 3,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6116"
+  },
+  "FIO": "Sazonov Petr Fedotovich",
+  "dob": {
+    "$date": "2005-06-18T00:00:00.000Z"
+  },
+  "address": "Oktyabrsky, Zaslonova str., 24",
+  "email": "erzonznx24@bk.ru",
+  "group_id": 3,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6117"
+  },
+  "FIO": "Nikiforov Averky Serapionovich",
+  "dob": {
+    "$date": "2000-10-19T00:00:00.000Z"
+  },
+  "address": "Ryazan, Sportivnaya str., 4",
+  "email": "mkkidlfz29@bk.ru",
+  "group_id": 3,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6118"
+  },
+  "FIO": "Rodionov Gordy Damirovich",
+  "dob": {
+    "$date": "2001-10-01T00:00:00.000Z"
+  },
+  "address": "Astrakhan, Shkolnaya str., 8",
+  "email": "vyleaqlz57@bk.ru",
+  "group_id": 3,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6119"
+  },
+  "FIO": "Kuznetsov Mark Sozonovich",
+  "dob": {
+    "$date": "2003-09-04T00:00:00.000Z"
+  },
+  "address": "Tver, Shkolnaya str., 19",
+  "email": "adpadrxl25@bk.ru",
+  "group_id": 3,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b611a"
+  },
+  "FIO": "Subbotina Marisha Ruslanovna",
+  "dob": {
+    "$date": "2002-10-17T00:00:00.000Z"
+  },
+  "address": "Taganrog, Zarechnaya St., 15",
+  "email": "braeuyqm29@bk.ru",
+  "group_id": 4,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b611b"
+  },
+  "FIO": "Polyakova Galina Vyacheslavovna",
+  "dob": {
+    "$date": "2001-09-18T00:00:00.000Z"
+  },
+  "address": "Kamyshin, Dachnaya St., 23",
+  "email": "zhkecjpr69@bk.ru",
+  "group_id": 4,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b611c"
+  },
+  "FIO": "Sukhanova Evelina Ivanovna",
+  "dob": {
+    "$date": "2005-08-20T00:00:00.000Z"
+  },
+  "address": "Kaspiysk, 3 Marta St., 22",
+  "email": "yrqsivwi24@bk.ru",
+  "group_id": 4,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b611d"
+  },
+  "FIO": "Kapustina Lunara Filatovna",
+  "dob": {
+    "$date": "2004-07-28T00:00:00.000Z"
+  },
+  "address": "Bryansk, Selskaya St., 20",
+  "email": "azqitjvz33@bk.ru",
+  "group_id": 4,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b611e"
+  },
+  "FIO": "Doronina Ralina Fedoseevna",
+  "dob": {
+    "$date": "2002-06-07T00:00:00.000Z"
+  },
+  "address": "Seversk, Vishnevaya St., 23",
+  "email": "mbghstjs74@bk.ru",
+  "group_id": 4,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b611f"
+  },
+  "FIO": "Terentyev Yermak Irineevich",
+  "dob": {
+    "$date": "2001-05-02T00:00:00.000Z"
+  },
+  "address": "Nazran, Shkolny Lane, 5",
+  "email": "vocteuqn24@bk.ru",
+  "group_id": 4,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6120"
+  },
+  "FIO": "Sazonov Arsen Yaroslavovich",
+  "dob": {
+    "$date": "2005-04-08T00:00:00.000Z"
+  },
+  "address": "Serpukhov, Partizanskaya St., 8",
+  "email": "dwqbdghc98@bk.ru",
+  "group_id": 4,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6121"
+  },
+  "FIO": "Yershov Mitrofan Ilyaovich",
+  "dob": {
+    "$date": "2004-03-17T00:00:00.000Z"
+  },
+  "address": "Pyatigorsk, Zarechny Lane, 21",
+  "email": "wsnxpwnf58@bk.ru",
+  "group_id": 4,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6122"
+  },
+  "FIO": "Shiryayev Matvey Yeremeyevich",
+  "dob": {
+    "$date": "2003-02-18T00:00:00.000Z"
+  },
+  "address": "Kyzyl, Ozernaya St., 6",
+  "email": "rtuvjhcj39@bk.ru",
+  "group_id": 4,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6123"
+  },
+  "FIO": "Noskov Timofey Maxovich",
+  "dob": {
+    "$date": "2002-01-09T00:00:00.000Z"
+  },
+  "address": "Yakutsk, Sadovaya St., 8",
+  "email": "dllovewa32@bk.ru",
+  "group_id": 4,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6124"
+  },
+  "FIO": "Efimova Adeliya Kimovna ",
+  "dob": {
+    "$date": "2001-09-09T00:00:00.000Z"
+  },
+  "address": "Orekhovo-Zuyevo, Mira St., 10",
+  "email": "kytearhf64@bk.ru",
+  "group_id": 5,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6125"
+  },
+  "FIO": "Chipyrkina Svetlana Ivanova",
+  "dob": {
+    "$date": "2002-11-11T00:00:00.000Z"
+  },
+  "address": "Achinsk, Gagarina St., 22",
+  "email": "ahfgysyw13@bk.ru",
+  "group_id": 5,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6126"
+  },
+  "FIO": "Kulagina Asya Vasilyevna",
+  "dob": {
+    "$date": "2003-12-12T00:00:00.000Z"
+  },
+  "address": "Nefteyugansk, Polesskaya St., 11",
+  "email": "mjeqgezs57@bk.ru",
+  "group_id": 5,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6127"
+  },
+  "FIO": "Borisova Laima Dmitrievna ",
+  "dob": {
+    "$date": "2004-02-02T00:00:00.000Z"
+  },
+  "address": "Novoshakhtinsk, Peschanaya St., 13",
+  "email": "qhdaetdf8@bk.ru",
+  "group_id": 5,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6128"
+  },
+  "FIO": "Kochevna Natalya Yevgenyevna",
+  "dob": {
+    "$date": "2005-09-09T00:00:00.000Z"
+  },
+  "address": "Lyubertsy, Pochtovaya St., 17",
+  "email": "nhqsfxte26@bk.ru",
+  "group_id": 5,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6129"
+  },
+  "FIO": "Sheptun Sergey Sergeyevich",
+  "dob": {
+    "$date": "2002-10-10T00:00:00.000Z"
+  },
+  "address": "Derbent, Zavodskaya St., 25",
+  "email": "tzpzbkal28@bk.ru",
+  "group_id": 5,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b612a"
+  },
+  "FIO": "Golovanov Sergey Viktorovich",
+  "dob": {
+    "$date": "2000-03-18T00:00:00.000Z"
+  },
+  "address": "Nevinnomyssk, Lugovoy Lane, 10",
+  "email": "vlbblrpm32@bk.ru",
+  "group_id": 5,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b612b"
+  },
+  "FIO": "Krylova Maryana Glebovna",
+  "dob": {
+    "$date": "2003-04-22T00:00:00.000Z"
+  },
+  "address": "Tambov, Novaya St., 24",
+  "email": "cyepnwdk23@bk.ru",
+  "group_id": 5,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b612c"
+  },
+  "FIO": "Burov Nikolay Pantelimonovich",
+  "dob": "2005-07-06",
+  "address": "Rameskoe, Sovetskaya str., d. 3",
+  "email": "dfclgwwz29@bk.ru",
+  "group_id": 6,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b612d"
+  },
+  "FIO": "Dmitriev Illarion Gelasievich",
+  "dob": "2004-11-03",
+  "address": "Nizhniy Tagil, Oktyabrskiy lane, d. 14",
+  "email": "epsnbwgm8@bk.ru",
+  "group_id": 6,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b612e"
+  },
+  "FIO": "Larionov Ustin Vladlenovich",
+  "dob": "2000-04-02",
+  "address": "Cherkessk, Tsvetochnaya str., d. 1",
+  "email": "upguzrow76@bk.ru",
+  "group_id": 6,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b612f"
+  },
+  "FIO": "Kazakov Orest Naumovich",
+  "dob": "2002-03-01",
+  "address": "Yaroslavl, Pervomayskaya str., d. 22",
+  "email": "ikumhrfo9@bk.ru",
+  "group_id": 6,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6130"
+  },
+  "FIO": "Yudina Ioanna Agafonovichna",
+  "dob": "2002-05-16",
+  "address": "Odintsovo, Pochtovaya str., d. 16",
+  "email": "mxbehmly87@bk.ru",
+  "group_id": 6,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6131"
+  },
+  "FIO": "Andreev Gordey Platonovich",
+  "dob": "2005-07-27",
+  "address": "Magnitogorsk, Pushkina str., d. 12",
+  "email": "zucweukd97@bk.ru",
+  "group_id": 6,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6132"
+  },
+  "FIO": "Rogov Askold Filippovich",
+  "dob": "2001-04-26",
+  "address": "Pskov, Krasnoarmeiskaya str., d. 25",
+  "email": "btjwevlv53@bk.ru",
+  "group_id": 6,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6133"
+  },
+  "FIO": "Anisimov Abram Melsovich",
+  "dob": "2002-08-25",
+  "address": "Berezniki, Michurina str., d. 13",
+  "email": "rrexevkn12@bk.ru",
+  "group_id": 6,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6134"
+  },
+  "FIO": "Lobanov Luka Tikhonovich",
+  "dob": "2004-02-19",
+  "address": "Mytishchi, Internatsionalnaya str., d. 16",
+  "email": "gqhleznf61@bk.ru",
+  "group_id": 6,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6135"
+  },
+  "FIO": "Ryabov Boris Viktorovich",
+  "dob": "2003-01-21",
+  "address": "Mytishchi, Internatsionalnaya str., d. 17",
+  "email": "kvrdsvyo33@bk.ru",
+  "group_id": 6,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6136"
+  },
+  "FIO": "Evdokimov Moisey Lukyanovich",
+  "dob": "2003-02-11",
+  "address": "Murom, Druzhby str., d. 12",
+  "email": "ugpvondv10@bk.ru",
+  "group_id": 6,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6137"
+  },
+  "FIO": "Vladimirov Arsen Makarovich",
+  "dob": "2001-07-20",
+  "address": "Murom, Druzhby str., d. 18",
+  "email": "eumamwah69@bk.ru",
+  "group_id": 6,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6138"
+  },
+  "FIO": "Blokhin Efim Protasevich",
+  "dob": "2003-11-15",
+  "address": "Murom, Mirnaya str., d. 6",
+  "email": "rzarlgxy72@bk.ru",
+  "group_id": 7,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6139"
+  },
+  "FIO": "Khokhlov Ilya Filatovich",
+  "dob": "2001-12-16",
+  "address": "Nizhnekamsk, Naberezhnaya str., d. 20",
+  "email": "hewynjcs30@bk.ru",
+  "group_id": 7,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b613a"
+  },
+  "FIO": "Suvorov Leonid Igorevich",
+  "dob": "2003-04-11",
+  "address": "Sergiev Posad, Solnechnaya str., d. 17",
+  "email": "abqndmqh26@bk.ru",
+  "group_id": 7,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b613b"
+  },
+  "FIO": "Isakov Filipp Ignatievich",
+  "dob": "2001-07-22",
+  "address": "Engels, Zheleznodorozhnaya str., d. 16",
+  "email": "nqsqdgzl13@bk.ru",
+  "group_id": 7,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b613c"
+  },
+  "FIO": "Ignatiev Ignat Nathanovich",
+  "dob": "2000-05-30",
+  "address": "Krasnodar, Vishnevaya str., d. 10",
+  "email": "wccqerry31@bk.ru",
+  "group_id": 7,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b613d"
+  },
+  "FIO": "Knyazev Eduard Sozonovich",
+  "dob": "2005-06-16",
+  "address": "Neftekamsk, Chapayeva str., d. 88",
+  "email": "bgblkpzq95@bk.ru",
+  "group_id": 7,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b613e"
+  },
+  "FIO": "Grishin Kassian Efimovich",
+  "dob": "2004-02-02",
+  "address": "Vladikavkaz, Lenina str., d. 23",
+  "email": "qfekdjiu69@bk.ru",
+  "group_id": 7,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b613f"
+  },
+  "FIO": "Kovalyova Asida Kirillovna",
+  "dob": "2002-01-17",
+  "address": "Krasnodar, Peschanaya str., d. 16",
+  "email": "qtxkvtnd73@bk.ru",
+  "group_id": 7,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6140"
+  },
+  "FIO": "Tarasova Merisa Romanovna",
+  "dob": "2000-03-21",
+  "address": "Petrozavodsk, Zaslonova str., d. 13",
+  "email": "nlfgguhj69@bk.ru",
+  "group_id": 7,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6141"
+  },
+  "FIO": "Sharapova Asya Dmitrievna",
+  "dob": "2001-10-25",
+  "address": "Lipetsk, Belorusskaya str., d. 13",
+  "email": "bbmkauwe17@bk.ru",
+  "group_id": 7,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6142"
+  },
+  "FIO": "Titova Aylin Sozonovna",
+  "dob": "2002-12-06",
+  "address": "Naberezhnye Chelny, Zeleny per., d. 18",
+  "email": "oxvxwvcx75@bk.ru",
+  "group_id": 7,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6143"
+  },
+  "FIO": "Abramova Iraida Albertovna",
+  "dob": "2003-11-06",
+  "address": "Armavir, Ozerny per., d. 11",
+  "email": "pkcedcbx91@bk.ru",
+  "group_id": 7,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6144"
+  },
+  "FIO": "Sysoeva Milda Semenovna",
+  "dob": "2002-12-02",
+  "address": "Pervouralsk, Belorusskaya str., d. 19",
+  "email": "qrluhgbo34@bk.ru",
+  "group_id": 7,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6145"
+  },
+  "FIO": "Davydova Stella Efimovna",
+  "dob": "2002-01-22",
+  "address": "Tyumen, Chapaeva str., d. 16",
+  "email": "iozvzevm40@bk.ru",
+  "group_id": 8,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6146"
+  },
+  "FIO": "Simonova Gloria Gordeevna",
+  "dob": "2000-12-03",
+  "address": "Belgorod, Dzerzhinskogo str., d. 14",
+  "email": "rolcflhc45@bk.ru",
+  "group_id": 8,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6147"
+  },
+  "FIO": "Muravyova Teresa Semenovna",
+  "dob": "2001-09-22",
+  "address": "Barnaul, Michurina str., d. 18",
+  "email": "aicliyqt28@bk.ru",
+  "group_id": 8,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6148"
+  },
+  "FIO": "Bespalova Arkhelia Dmitrievna",
+  "dob": "2002-07-14",
+  "address": "Yekaterinburg, Zelenaya str., d. 23",
+  "email": "mcymtayh57@bk.ru",
+  "group_id": 8,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6149"
+  },
+  "FIO": "Emelyanova Yanita Nathanovna",
+  "dob": "2000-05-24",
+  "address": "Pyatigorsk, Tsentralny per., d. 6",
+  "email": "prvxookj70@bk.ru",
+  "group_id": 8,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b614a"
+  },
+  "FIO": "Maksimova Lali Melsovna",
+  "dob": "2005-03-21",
+  "address": "Serpukhov, Dzerzhinskogo str., d. 15",
+  "email": "nzroyism94@bk.ru",
+  "group_id": 8,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b614b"
+  },
+  "FIO": "Kabanova Julia Lukyanovna",
+  "dob": "2004-01-22",
+  "address": "Abakan, Internatsionalnaya str., d. 1",
+  "email": "rtayucxb52@bk.ru",
+  "group_id": 8,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b614c"
+  },
+  "FIO": "Drozdov Albert Fedorovich",
+  "dob": "2002-11-24",
+  "address": "Angarsk, Tikhaya str., d. 18",
+  "email": "okylqvcz26@bk.ru",
+  "group_id": 8,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b614d"
+  },
+  "FIO": "Shestakov Mitrofan Vladislavovich",
+  "dob": "2001-10-06",
+  "address": "Oktyabrskiy, Svetlaya str., d. 24",
+  "email": "ndmspyni14@bk.ru",
+  "group_id": 8,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b614e"
+  },
+  "FIO": "Nazarov Kornelius Vasilyevich",
+  "dob": "2003-10-14",
+  "address": "Angarsk, Stroiteley str., d. 8",
+  "email": "rxmaglry23@bk.ru",
+  "group_id": 8,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b614f"
+  },
+  "FIO": "Kirillov Kondraty Glebovich",
+  "dob": "2002-12-23",
+  "address": "Rostov-on-Don, Maksima Gorkogo str., d. 25",
+  "email": "ogtwwblq56@bk.ru",
+  "group_id": 8,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6150"
+  },
+  "FIO": "Ignatiev Emelyan Donatovich",
+  "dob": "2004-01-22",
+  "address": "Achinsk, Ozerny per., d. 24",
+  "email": "gzhfbrkv69@bk.ru",
+  "group_id": 8,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6151"
+  },
+  "FIO": "Efimov Egor Vladimirovich",
+  "dob": "2003-02-02",
+  "address": "Nazran, Kolkhoznaya str., d. 15",
+  "email": "unhmhnxr34@bk.ru",
+  "group_id": 8,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6152"
+  },
+  "FIO": "Odintsov Ernest Lvovich",
+  "dob": "2002-07-17",
+  "address": "Nizhny Novgorod, 3 Marta str., d. 24",
+  "email": "xkrkdehe12@bk.ru",
+  "group_id": 8,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6153"
+  },
+  "FIO": "Emelyanova Leia Frolovna",
+  "dob": "2002-12-22",
+  "address": "Tolyatti, Lesnoy per., d. 16",
+  "email": "ipcsclnt28@bk.ru",
+  "group_id": 9,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6154"
+  },
+  "FIO": "Safonova Heliana Filatovna",
+  "dob": "2003-01-11",
+  "address": "Volzhsky, Druzhby str., d. 10",
+  "email": "mttjajjz30@bk.ru",
+  "group_id": 9,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6155"
+  },
+  "FIO": "Tikhonova Marta Andreevna",
+  "dob": "2003-09-16",
+  "address": "Kemerovo, Polevoy per., d. 19",
+  "email": "hkmmsfks85@bk.ru",
+  "group_id": 9,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6156"
+  },
+  "FIO": "Efremova Valentina Melorovna",
+  "dob": "2004-07-12",
+  "address": "Magnitogorsk, Molodezhnaya str., d. 15",
+  "email": "fqeifypz80@bk.ru",
+  "group_id": 9,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6157"
+  },
+  "FIO": "Kolobova Elena Artemovna",
+  "dob": "2002-09-29",
+  "address": "Kopeysk, Oktyabrskiy per., d. 17",
+  "email": "cpvtwwoo29@bk.ru",
+  "group_id": 9,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6158"
+  },
+  "FIO": "Kulikova Vasilisa Efimovna",
+  "dob": "2002-10-18",
+  "address": "Bryansk, Kirova str., d. 16",
+  "email": "imlrquke48@bk.ru",
+  "group_id": 9,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6159"
+  },
+  "FIO": "Zimina Daryana Stanislavovna",
+  "dob": "2000-01-15",
+  "address": "Arzamas, Pionerskaya str., d. 14",
+  "email": "jlzkdeum52@bk.ru",
+  "group_id": 9,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b615a"
+  },
+  "FIO": "Kudryavtseva Grazhina Parfenyevna",
+  "dob": "2002-02-07",
+  "address": "Kamyshin, Lenina V.I. str., d. 10",
+  "email": "pjtzdhrq50@bk.ru",
+  "group_id": 9,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b615b"
+  },
+  "FIO": "Gorshkov Leonard Dmitrievich",
+  "dob": "2003-11-07",
+  "address": "Blagoveshchensk, Lesnoy per., d. 9",
+  "email": "cqxcffpe59@bk.ru",
+  "group_id": 9,
+  "budjet": 0
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b615c"
+  },
+  "FIO": "Bobylev Averkiy Dmitrievich",
+  "dob": "2003-07-01",
+  "address": "Pervouralsk, Polevaya str., d. 25",
+  "email": "yumnmqtj31@bk.ru",
+  "group_id": 9,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b615d"
+  },
+  "FIO": "Filippov Daniil Yurievich",
+  "dob": "2002-09-22",
+  "address": "Yelets, Polevoy per., d. 5",
+  "email": "yumnmqtsj31@bk.ru",
+  "group_id": 9,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b615e"
+  },
+  "FIO": "Vladimirov Osip Irineevich",
+  "dob": "2001-10-27",
+  "address": "Zheleznogorsk, Michurina str., d. 10",
+  "email": "yumnmqsadtj31@bk.ru",
+  "group_id": 9,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b615f"
+  },
+  "FIO": "Filippov Yaroslav Filatovich",
+  "dob": "2003-11-17",
+  "address": "Miass, Tsvetochnaya str., d. 25",
+  "email": "yumsadaznmqtj31@bk.ru",
+  "group_id": 9,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6160"
+  },
+  "FIO": "Bragin Artem Nikitevich",
+  "dob": "2004-12-14",
+  "address": "Syzran, Yubileynaya str., d. 11",
+  "email": "yumsadqsnmqtj31@bk.ru",
+  "group_id": 9,
+  "budjet": 1
+},
+{
+  "_id": {
+    "$oid": "6659fd39a2eeeb0c631b6161"
+  },
+  "FIO": "Shahkov Vladimir Efimovich",
+  "dob": "2003-02-11",
+  "address": "Kostroma, Zavodskaya str., d. 18",
+  "email": "yumnfsaqmqtj31@bk.ru",
+  "group_id": 9,
+  "budjet": 1
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": 1,
+  "group_name": "IS101",
+  "direction_id": 1
+},
+{
+  "_id": 2,
+  "group_name": "IS102",
+  "direction_id": 1
+},
+{
+  "_id": 3,
+  "group_name": "IS103",
+  "direction_id": 1
+},
+{
+  "_id": 4,
+  "group_name": "PI101",
+  "direction_id": 2
+},
+{
+  "_id": 5,
+  "group_name": "PI102",
+  "direction_id": 2
+},
+{
+  "_id": 6,
+  "group_name": "PI103",
+  "direction_id": 2
+},
+{
+  "_id": 7,
+  "group_name": "BI101",
+  "direction_id": 3
+},
+{
+  "_id": 8,
+  "group_name": "BI102",
+  "direction_id": 3
+},
+{
+  "_id": 9,
+  "group_name": "BI103",
+  "direction_id": 3
+}]

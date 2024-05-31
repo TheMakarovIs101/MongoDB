@@ -1,0 +1,28 @@
+[{
+  "_id": 1,
+  "name": "Programming component structures"
+},
+{
+  "_id": 2,
+  "name": "Data analysis"
+},
+{
+  "_id": 3,
+  "name": "Information Security"
+},
+{
+  "_id": 4,
+  "name": "Programming technologies"
+},
+{
+  "_id": 5,
+  "name": "Combinatorics"
+},
+{
+  "_id": 6,
+  "name": "Database technologies"
+},
+{
+  "_id": 7,
+  "name": "Information systems design"
+}]
